@@ -18,7 +18,7 @@
 
 ## 🕹️ About Me
 
-I'm a **Unity Game Developer** from **Kerala, India** 🌴, currently based in **China** 🇨🇳. I specialize in building games completely from scratch, with experience in WebGL 2D runners, 3D car parking simulators, and VR/AR prototypes. I work with a freelance team on AR/VR and 3D applications, and I'm currently pursuing **Blender certification** to strengthen my 3D modeling skills.
+I'm a **Unity Game Developer** from **Kerala, India** 🌴, currently based in **kerala**. I specialize in building games completely from scratch, with experience in WebGL 2D runners, 3D car parking simulators, and VR/AR prototypes. I work with a freelance team on AR/VR and 3D applications, and I'm currently pursuing **Blender certification** to strengthen my 3D modeling skills.
 
 **What I bring to the table:**
 - 🎯 Complete game development from concept to deployment
