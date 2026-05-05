@@ -31,7 +31,7 @@ I'm a **Unity Game Developer** from **Kerala, India** 🌴, currently based in *
 public class SaheedaMuhammed : GameDeveloper
 {
     public string Origin = "Kerala, India";
-    public string CurrentLocation = "China";
+    public string CurrentLocation = "Kerala";
     public string[] Skills = { "Unity", "C#", "Netcode", "Photon", "VR/AR", "Blender" };
     public string[] Specialties = { "WebGL Games", "3D Simulators", "Multiplayer Systems" };
     public string CurrentFocus = "Blender Certification & AR/VR Development";
